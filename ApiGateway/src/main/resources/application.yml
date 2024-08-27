@@ -37,19 +37,4 @@ okta:
     client-id: 0oaj836zz44PgTa8m5d7
     client-secret: 5mWKL6FvCARQuWBbl2JWuEtXqTMWZjdbOoZlg5OWYU6Z49HFyp8nyQk0UFD_jd3M
     scopes: openid, profile, email, offline_access
-    
-#
-#  
-#
-#                  
-#    
-#    
-#eureka:
-#  instance:
-#    prefer-ip-address: true
-#    
-#  client:
-#    fetch-registry: true
-#    register-with-eureka: true
-#    service-url:
-#      defaultZone: http://localhost:8761/eureka
+
